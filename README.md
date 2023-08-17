@@ -1,7 +1,7 @@
 # PasswordStrengthChecker
 Python Program to check the strength of a password
 
-password as a combination of alphanumeric characters along with special characters, and checking whether the password is valid or not with the help of a few conditions.
+Here we are taking a Password as a combination of alphanumeric characters along with special characters, and checking whether the password is valid or not with the help of a few conditions.
 
 Primary conditions for password validation:
 
